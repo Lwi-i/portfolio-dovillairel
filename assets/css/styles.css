@@ -492,3 +492,8 @@ img {
   height: 100vh; /* Prend toute la hauteur de la fenêtre */
   text-align: center; /* Centre le texte dans le conteneur */
 }
+
+.container2 div {
+  display: inline-block; /* Permet au texte de respecter les sauts de ligne */
+  text-align: center; /* Centre le texte à l'intérieur */
+}
