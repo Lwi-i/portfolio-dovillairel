@@ -484,3 +484,11 @@ img {
     width: 450px;
   }
 }
+
+.container2 {
+  display: flex; /* Utilisation de Flexbox */
+  justify-content: center; /* Centrage horizontal */
+  align-items: center; /* Centrage vertical */
+  height: 100vh; /* Prend toute la hauteur de la fenêtre */
+  text-align: center; /* Centre le texte dans le conteneur */
+}
